@@ -1,10 +1,15 @@
 {
   "name": "utf8-encode",
-  "version": "1.0.0",
   "description": "Encode JavaScript strings in UTF8",
-  "main": "./index.js",
-  "repository": "ForbesLindesay/utf8-encode",
+  "version": "1.0.0",
   "author": "ForbesLindesay",
+  "files": [
+    "index.js"
+  ],
   "license": "MIT",
-  "files": ["index.js"]
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/utf8-encode.git"
+  }
 }
